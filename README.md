@@ -1,0 +1,1 @@
+# Como-listar-programas-ocultos-instalados-em-seu-PC-com-Python
